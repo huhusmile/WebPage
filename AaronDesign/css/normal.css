@@ -1,0 +1,5 @@
+*{margin:0; padding: 0;}
+ul,li{list-style: none;}
+img{border:0;}
+a{text-decoration: none;}
+body{background-image: url("../images/topbg.png"); background-position: 0 0; background-repeat: repeat; min-height: 3068px; padding-bottom: 0px; visibility: visible;}
